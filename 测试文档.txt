@@ -1,1 +1,1 @@
-http://gitlab.rd.unicloud.com/unicloud/pco/product-service/uco-ui-operate-console/-/commits/release/UNI_OP_V5.2.1.5-20250430-public/
+http://gitlab.rd.unicloud.com/unicloud/pco/product-service/uco-ui-operate-console/-/commits/release/UNI_OP_V5.2.1.5-20250430-public/    SDF
